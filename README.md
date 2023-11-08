@@ -24,8 +24,11 @@
 ![Static Badge](https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/h_seok__o3o" target="blank"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="h_seok__o3o"/></a>
-</p>
+
+<a href="https://instagram.com/h_seok__o3o" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="h_seok__o3o"/></a>
+![Static Badge](https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NAVER-%2303C75A?style=for-the-badge&logo=naver&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 
