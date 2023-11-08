@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm HeeSeok</h1>
 <h3 align="center">My major is back-end developer.</h3>
 📫 How to reach me **heesek3886@gmail.com**
