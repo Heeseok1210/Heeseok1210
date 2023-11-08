@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=150&text=Hi👋,I'm%20HeeSeok&stroke=black&strokeWidth=3)
 
-<h3 align="center">My major is back-end developer.</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=JAVA)
