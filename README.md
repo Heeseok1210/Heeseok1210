@@ -25,10 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://instagram.com/h_seok__o3o" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="h_seok__o3o"/></a>
-<a href="https://brave-sodium-f55.notion.site/8c5825df710f43d2a991b9e795c4da4f?pvs=4" target="blank"><img src="https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=white
-" alt="8c5825df710f43d2a991b9e795c4da4f?pvs=4"/></a>
-
-![Static Badge](https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+<a href="https://brave-sodium-f55.notion.site/8c5825df710f43d2a991b9e795c4da4f?pvs=4" target="blank"><img src="https://img.shields.io/badge/NOTION-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="h_seok__o3o"/></a>
 ![Static Badge](https://img.shields.io/badge/NAVER-%2303C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
