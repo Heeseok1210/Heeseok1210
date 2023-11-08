@@ -7,7 +7,7 @@
 <a href="https://instagram.com/h_seok__o3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_seok__o3o" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=JAVA)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=JAVASCRIPT)
