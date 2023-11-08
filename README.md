@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/h_seok__o3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_seok__o3o" height="30" width="40" /></a>
+<a href="https://instagram.com/h_seok__o3o" target="blank"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="h_seok__o3o"/></a>
 </p>
 
 
